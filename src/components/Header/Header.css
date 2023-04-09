@@ -1,0 +1,40 @@
+.my-2{
+    background-color: var(--header_back)!important;
+    margin: 0!important;
+}
+
+.login-info{
+    color: #fff!important;
+    z-index: 2!important;
+    text-decoration: none!important;
+    display: inline-block!important;
+    vertical-align: top!important;
+    text-align: end;
+}
+
+.login{
+    background-color:#8998a6!important;
+}
+
+.signup{
+    background-color: #36B100!important;
+}
+
+.login, .signup{
+    color: #fff!important;
+    text-decoration: none!important;
+    margin: 0 5px!important;
+    padding: 0 1.25em!important;
+    border-radius: 3px!important;
+    font-size: 12px!important;
+    line-height: 2.8em!important;
+    display: inline-block!important;
+    vertical-align: middle!important;
+    position: relative!important;
+    top: -1px!important;
+}
+
+.navbar-nav, .container-lg{
+    gap:20px!important;
+}
+
